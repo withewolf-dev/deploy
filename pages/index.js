@@ -35,7 +35,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>Discover and deploy aasdasdasd example Next.js projects.</p>
           </a>
 
           <a
@@ -49,6 +49,8 @@ export default function Home() {
           </a>
         </div>
       </main>
+
+      
 
       <footer className={styles.footer}>
         <a
